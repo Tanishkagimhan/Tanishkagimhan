@@ -21,10 +21,13 @@
 <br/>
 <img align="left" width="150" height="180" src="https://github.com/Tanishkagimhan/Tanishkagimhan/blob/main/png/bot.png?raw=true">
 
-- <a href="https://www.instagram.com/gimhantanishka?igsh=MXd4ZXB4aDNhenR4Mw%3D%3D&utm_source=qr" style = "text-decoration : none;">Instagram</a>   <img align="center" src="#" alt="" height="15" width="20" />
-- <a href="https://www.linkedin.com/in/tanishkagimhan/">Linkedin</a>    <img align="center" src="https://github.com/ChillBroh/ChillBroh/blob/main/png/1220314_linkedin_in_linked_social_icon.png" height="24" width="24"/>
-- <a href="https://web.facebook.com/">FaceBook</a>    <img align="center" src="https://github.com/ChillBroh/ChillBroh/blob/main/png/393297_facebook_icon.png" alt="tanishkagimhan" height="24" width="24" />
-- <a href="mailto:tanishkagimhan4@.com">E-mail</a>    <img align="center" src="https://github.com/ChillBroh/ChillBroh/blob/main/png/1220340_gmail_google_mail_icon.png"  height="25" width="25" />
+- <a href="https://www.instagram.com/gimhantanishka?igsh=MXd4ZXB4aDNhenR4Mw%3D%3D&utm_source=qr" style = "text-decoration : none;">Instagram</a>   <img align="center" src="https://github.com/Tanishkagimhan/Tanishkagimhan/blob/main/png/png-clipart-instagram-logo-icon-others-text-photography-removebg-preview.png?raw=true" alt="" height="15" width="20" />
+
+- <a href="https://www.linkedin.com/in/tanishkagimhan/">Linkedin</a>    <img align="center" src="https://github.com/Tanishkagimhan/Tanishkagimhan/blob/main/png/linkedin-logo-linkedin-symbol-linkedin-icon-free-free-vector-removebg-preview.png?raw=true" height="24" width="24"/>
+
+- <a href="https://web.facebook.com/">FaceBook</a>    <img align="center" src="https://github.com/Tanishkagimhan/Tanishkagimhan/blob/main/png/facebook-logo-facebook-icon-transparent-free-png-removebg-preview.png?raw=true" alt="tanishkagimhan" height="24" width="24" />
+
+- <a href="mailto:tanishkagimhan4@.com">E-mail</a>    <img align="center" src="https://github.com/Tanishkagimhan/Tanishkagimhan/blob/main/png/8748009-removebg-preview.png?raw=true"  height="25" width="25" />
 - - <a href="https://medium.com/@chillBroh">Blog</a>   
 
 <br/>
