@@ -21,7 +21,7 @@
 
 ## 📫 How to reach me
 <br/>
-<img align="left" width="170" height="170" src="#">
+<img align="left" width="170" height="170" src="D:\github readme\Tanishkagimhan\png\bot.png">
 
 - <a href="https://www.instagram.com/gimhantanishka?igsh=MXd4ZXB4aDNhenR4Mw%3D%3D&utm_source=qr" style = "text-decoration : none;">Instagram</a>   <img align="center" src="#" alt="" height="15" width="20" />
 - <a href="https://www.linkedin.com/in/tanishkagimhan/">Linkedin</a>    <img align="center" src="https://github.com/ChillBroh/ChillBroh/blob/main/png/1220314_linkedin_in_linked_social_icon.png" height="24" width="24"/>
